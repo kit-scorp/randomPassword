@@ -1,0 +1,10 @@
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\bin\Debug\Rastgele Parola Oluşturucu.exe.config
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\bin\Debug\Rastgele Parola Oluşturucu.exe
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\bin\Debug\Rastgele Parola Oluşturucu.pdb
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\obj\Debug\Rastgele Parola Oluşturucu.csproj.AssemblyReference.cache
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\obj\Debug\Rastgele_Parola_Oluşturucu.Form1.resources
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\obj\Debug\Rastgele_Parola_Oluşturucu.Properties.Resources.resources
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\obj\Debug\Rastgele Parola Oluşturucu.csproj.GenerateResource.cache
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\obj\Debug\Rastgele Parola Oluşturucu.csproj.CoreCompileInputs.cache
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\obj\Debug\Rastgele Parola Oluşturucu.exe
+C:\Users\karaa\OneDrive\Masaüstü\c# siber güvenlik projeleri\Rastgele Parola Oluşturucu\Rastgele Parola Oluşturucu\obj\Debug\Rastgele Parola Oluşturucu.pdb
